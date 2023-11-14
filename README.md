@@ -64,8 +64,7 @@ Demo
 
 For a visual demonstration of how to use the HTML Portfolio Generator, watch the following walkthrough video:
 
-Watch the Walkthrough Video
-
+https://youtu.be/gyNLtE_fwK8
 
 Contributing
 
