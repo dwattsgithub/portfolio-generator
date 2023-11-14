@@ -16,7 +16,7 @@ inquirer
     {
       type: 'input',
       message: 'Please summarize your experience in a few lines of text:',
-      name: 'biodate',
+      name: 'biodata',
     },
     {
       type: 'input',
