@@ -22,11 +22,13 @@ Installation
 Clone this repository to your local machine:
 
 bash
-git clone https://github.com/your-username/html-portfolio-generator.git
+git clone https://github.com/dwattsgithub/portfolio-generator.git
+
 Change to the project directory:
 
 bash
 cd html-portfolio-generator
+
 Install the required dependencies:
 
 bash
